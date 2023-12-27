@@ -1,11 +1,9 @@
-# Event Registration Web Application
+## Event Registration Web Application
 
-## NAME :  U.Shyam Sujin
-## REFERENCE NUMBER : 23014041
-## AIM:
+### AIM:
 To design, develop and deploy a web application for event registration.
 
-## DESIGN STEPS:
+### DESIGN STEPS:
 
 ### Step 1:
 Create a new frame.
@@ -30,128 +28,115 @@ Validate the HTML and CSS code.
 
 Publish the website in the given URL.
 
-## DESIGN TOOL:
+### DESIGN TOOL:
 Figma
 
-## CODE:
+### code:
 ```
 /* Home Page */
 position: relative;
 width: 360px;
 height: 640px;
-background: #FF0808;
-
-/* Login Page */
+background: #F60B0B;
+/* Login page */
 position: relative;
 width: 360px;
 height: 640px;
-background: #FFF50F;
-
+background: #FBF211;
 /* Saveetha Engineering College */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 13px;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 37px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
-
+color: #131010;
 /* DEPARTMENTS */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 247px;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 248px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
-
+color: #131010;
 /* AI-ML */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 317px;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 320px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
-
-/* AI-DS */
+color: #131010;
+/* iOT */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 373px;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 424px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
-
-/* IOT */
-position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 429px;
-font-family: 'Inter';
-font-style: normal;
-font-weight: 400;
-font-size: 20px;
-line-height: 24px;
-text-align: center;
-color: #101010;
-
+color: #131010;
 /* CC */
 position: absolute;
-width: 324px;
-height: 36px;
-left: 18px;
-top: 485px;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 476px;
 font-family: 'Inter';
 font-style: normal;
 font-weight: 400;
 font-size: 20px;
 line-height: 24px;
 text-align: center;
-color: #101010;
 
-/* Line 3 */
+color: #131010;
+/* AI-DS */
 position: absolute;
-width: 360px;
-height: 0px;
-left: 0px;
-top: 83px;
-border: 4px solid #172DF5;
+width: 338px;
+height: 43px;
+left: 11px;
+top: 372px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #131010;
+/* logo 3 */
+position: absolute;
+width: 98px;
+height: 111px;
+left: 131px;top: 99px;background: url(logo.jpg);
 
-/* Logo 3 */
-position: absolute;
-width: 105px;
-height: 96px;
-left: 127px;
-top: 117px;
-background: url(Logo.png);
 ```
 
 ## OUTPUT:
-![Output](out1.png)
-![Output](out2.png)
-![Output](out3.png)
+
+![91](https://github.com/Jaisriram28/event-registration/assets/122092094/b1ad458f-5ef5-4e06-9758-ac27f2fc8492)
+![92](https://github.com/Jaisriram28/event-registration/assets/122092094/ef184bff-2ed1-411e-93a4-808a525fee48)
+
+![93](https://github.com/Jaisriram28/event-registration/assets/122092094/f5cb83a6-ca2f-49f1-9c61-94ab811d1503)
+
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
